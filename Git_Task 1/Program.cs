@@ -11,6 +11,7 @@ namespace Git_Task_1
                 Console.WriteLine("Hello Git!");
                 Console.WriteLine("kek");
                 Console.WriteLine("kek");
+                Console.WriteLine("kek");
             }
             
         }
