@@ -9,6 +9,7 @@ namespace Git_Task_1
             for ( int i=0; i<100; i++)
             {
                 Console.WriteLine("Hello Git!");
+                Console.WriteLine("kek");
             }
             
         }
